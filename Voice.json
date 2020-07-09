@@ -1,0 +1,11 @@
+{
+    "1": {
+        "answer": "世話^@^おります^@^台湾^@^アリオン^@^王^@^申しいます^@^田中様^@^お願い^@^致します",
+        "audio": "\\\\192.168.20.20\\Public\\For JunJie\\IVILOG\\VOICE\\Step 1-1-11\\AudioRecord_3.wav",
+        "lang": "ja-JP",
+        "result": "Pass",
+        "course": "世話 match 0%^%^おります Pass^%^台湾 Pass^%^アリオン Pass^%^王 Pass^%^申しいます match 17%^%^田中様 Pass^%^お願い Pass^%^致します match 13%^%^",
+        "recognize": "では になっております 台湾 アリオンの王 と申しますが 田中様をお願いいたします",
+        "matches": 4
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1": {
+        "answer": "portrait^@^of^@^a^@^lady",
+        "audio": "G:\\Rex\\voice_recognize\\feedback.wav",
+        "lang": "en-US",
+        "result": "Pass",
+        "course": "portrait Pass^%^of Pass^%^a duplicate 5 times^%^lady Pass^%^",
+        "recognize": "the portrait of a lady was written by Henry James",
+        "matches": 4
+    },
+    "2": {
+        "answer": "portrait^@^of^@^a^@^lady",
+        "audio": "G:\\Rex\\voice_recognize\\feedback.wav",
+        "lang": "en-US",
+        "result": "Pass",
+        "course": "portrait Pass^%^of Pass^%^a duplicate 5 times^%^lady Pass^%^",
+        "recognize": "the portrait of a lady was written by Henry James",
+        "matches": 4
+    }
+}

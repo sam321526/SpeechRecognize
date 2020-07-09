@@ -1,0 +1,11 @@
+{
+    "1": {
+        "answer": "lady^@^written",
+        "audio": "G:\\Rex\\voice_recognize\\AudioRecord.wav",
+        "lang": "en-US",
+        "result": "Fail",
+        "course": "lady match 5%^%^written match 9%^%^",
+        "recognize": "this is Abby I'm not home right now please leave a message hi this is Abby I'm not home right now please leave a message",
+        "matches": 2
+    }
+}
